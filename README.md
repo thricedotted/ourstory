@@ -2,7 +2,10 @@
 for NaNoGenMo 2015
 
 ## output files!
+dang ya get two options lucky lucky u
+
 [our story (pdf)](https://github.com/thricedotted/ourstory/blob/master/our_story.pdf)
+
 [our story (txt)](https://github.com/thricedotted/ourstory/blob/master/our_story.txt)
 
 (don't try to read it in github's pdf viewer thing, it's too long and makes it slow :| )
