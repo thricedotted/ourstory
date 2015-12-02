@@ -1,6 +1,13 @@
 # our story
 for NaNoGenMo 2015
 
+## output files!
+[our story (pdf)](https://github.com/thricedotted/ourstory/blob/master/our_story.pdf)
+[our story (txt)](https://github.com/thricedotted/ourstory/blob/master/our_story.txt)
+
+(don't try to read it in github's pdf viewer thing, it's too long and makes it slow :| )
+
+## author's statement or w/e
 hi i threw this together at the very last minute. it is the product of starting nanogenmo somewhere between 4 and 8pm on november 30.
 
 the novel has three parts: PAST, PRESENT, and FUTURE. each page alternates between a poem about you, and a poem about me. in sum they form our story.
